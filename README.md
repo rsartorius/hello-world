@@ -6,3 +6,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Thank you for Reading this test!
 Cheers, R
+
+
+Amendment
+
+1st) The First Amendment guarantees freedoms concerning religion, expression, assembly, and the right to petition.
